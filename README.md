@@ -1,6 +1,6 @@
 # 🌍 Global Renewable Energy Analysis Platform
 
-A comprehensive data engineering solution for analyzing renewable energy adoption, economic factors, and climate patterns across different countries.
+An End-To-End data engineering solution for analyzing renewable energy adoption, economic factors, and climate patterns across different countries.
 
 ![Renewable Energy](https://img.shields.io/badge/Energy-Renewable-brightgreen)
 ![Azure](https://img.shields.io/badge/Platform-Azure-blue)
@@ -102,14 +102,6 @@ The platform provides interactive dashboards for:
 - Interactive visualization tools
 - Scalable and secure architecture
 - Real-time data processing
-
-## 📈 Future Enhancements
-
-- Advanced predictive modeling
-- Machine learning integration
-- Additional data source integration
-- Enhanced automation features
-- Extended reporting capabilities
 
 ---
 Built with ❤️ by Raghul K
