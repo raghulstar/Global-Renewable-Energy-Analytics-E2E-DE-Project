@@ -10,7 +10,7 @@
 [![PySpark](https://img.shields.io/badge/Python-PySpark-4B8BBE?style=flat&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
 [![Databricks](https://img.shields.io/badge/Platform-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)](https://databricks.com/)
 
-<img src="https://raw.githubusercontent.com/amido/azure-vector-icons/master/renders/architecture-diagram.png" alt="Architecture Diagram" width="600"/>
+<img src="Solution Architecture.png" alt="Architecture Diagram" width="600"/>
 
 </div>
 
